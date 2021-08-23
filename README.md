@@ -1,4 +1,4 @@
-# GamepayPy — удобный спосод для работы с GamePay API
+# GamepayPy — удобный способ для работы с GamePay API
 
 ![logo](https://i.imgur.com/vC01Lug.png)
 
